@@ -3,7 +3,6 @@
 <p><em>Software Engineer at <a href="https://www.antino.io/">Antino.io</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-![Twitter Follow](https://img.shields.io/twitter/follow/aditya_pranav?label=Follow)
 [![Twitter: Follow](https://img.shields.io/badge/-aditya-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://www.twitter.com/aditya_pranav/)](https://www.twitter.com/aditya_pranav/)
 [![Linkedin: aditya-pranav](https://img.shields.io/badge/-aditya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aditya-pranav/)](https://www.linkedin.com/in/aditya-pranav/)
 ![GitHub followers](https://img.shields.io/github/followers/anmol098?label=Follow&style=social)
