@@ -5,7 +5,7 @@
 
 [![Twitter: Follow](https://img.shields.io/badge/-aditya-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://www.twitter.com/aditya_pranav/)](https://www.twitter.com/aditya_pranav/)
 [![Linkedin: aditya-pranav](https://img.shields.io/badge/-aditya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aditya-pranav/)](https://www.linkedin.com/in/aditya-pranav/)
-[![Github: Followers](https://img.shields.io/badge/-aditya-blue?style=flat-square&logo=Github&logoColor=white&link=https://www.github.com/thelittlehacker/)](https://www.github.com/thelittlehacker/)
+[![Github: Followers](https://img.shields.io/badge/-aditya-black?style=flat-square&logo=Github&logoColor=white&link=https://www.github.com/thelittlehacker/)](https://www.github.com/thelittlehacker/)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://adityapranav.in/)](https://adityapranav.in/)
 
 👇 Hit in your console or terminal to connect with me.
