@@ -30,7 +30,7 @@ const Aditya = {
             js: ["node", "express", "mongoose", "sequelize"]
         },
         devOps: ["AWS", "Heroku"],
-        databases: ["mongo", "MySql", "sqlite"],
+        databases: ["MongoDB", "MySql", "sqlite"],
         editor: ["VS Code"]
         misc: ["Firebase", "Socket.IO"]
     },
