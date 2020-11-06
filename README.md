@@ -20,7 +20,7 @@ npx adityapranav
 const Aditya = {
     pronouns: "He" | "Him",
     code: ["Javascript"],
-    askMeAbout: ["web dev", "tech", "app dev", "blogging", "Digital Marketing"],
+    askMeAbout: ["Web dev", "Backend dev", "Startup", "Blogging", "Digital Marketing"],
     technologies: {
         frontEnd: {
             js: ["Reactjs"],
